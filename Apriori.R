@@ -1,4 +1,4 @@
-setwd("C:/Users/SHN/Documents/Sudha/My Projects/Apriori In R")
+setwd(".../My Projects/Apriori In R")
 
 # Install required libraries
 
